@@ -1,0 +1,7 @@
+# Editor settings (machine-specific)
+.vscode/
+
+# Build output
+build/
+*.o
+outDebug*
